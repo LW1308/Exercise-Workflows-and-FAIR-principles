@@ -18,3 +18,5 @@ The requirement for packages are stored in the [environment.txt](environment.txt
 
 Since this project was dealing with equations, there were no data to be processed in the project.
 
+## Others
+Since this repository is, generally speaking, a part of assignment. It started as a private repository. It might be turned into private again after the exercise is scored. The main idea is to feel the idea of FAIR principles and how to make use of Jupyter notebook. It is noticed that A(accessible) is an important part. However, the contents here are very amature. So one day if I can find more proper material to complete this task I might make that public permanantly. But currently it still looks like a toy model, therefore, I might turn it back into private soon.
