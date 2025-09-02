@@ -14,7 +14,7 @@ In this exercise, the tasks below should be completed.
 ## Contents
 The contents here are from one process of getting numerical solutions of shallow water equation. Its detail and its achievements are listed in the Jupyter notebook contained in the repository.
 
-The requirement for packages are stored in the [environment.txt](environment.txt).  These packages are used to complete my previous week assignment. 
+The requirement for packages are stored in the [environment.txt](environment.txt).  These packages were used to complete my previous week assignment. However, it is necessary to state that the performance, if the latest packages are by default used, has not been verified yet.
 
 Since this project was dealing with equations, there were no data to be processed in the project.
 
