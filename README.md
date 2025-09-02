@@ -16,5 +16,5 @@ The contents here are from one process of getting numerical solutions of shallow
 
 The requirement for packages are stored in the [environment.txt](environment.txt).  These packages are used to complete my previous week assignment. 
 
-
+Since this project was dealing with equations, there were no data to be processed in the project.
 
